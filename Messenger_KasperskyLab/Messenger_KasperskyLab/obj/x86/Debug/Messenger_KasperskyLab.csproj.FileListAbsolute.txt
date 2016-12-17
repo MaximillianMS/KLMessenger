@@ -1,0 +1,15 @@
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\bin\Debug\Messenger_KasperskyLab.exe
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\bin\Debug\Messenger_KasperskyLab.pdb
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\Messenger_KasperskyLab_MarkupCompile.cache
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\Messenger_KasperskyLab.g.resources
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\Messenger_KasperskyLab.Properties.Resources.resources
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\Messenger_KasperskyLab.csproj.GenerateResource.Cache
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\Messenger_KasperskyLab.exe
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\Messenger_KasperskyLab.pdb
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\View\MainWindow.baml
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\View\MainWindow.g.cs
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\App.g.cs
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\Messenger_KasperskyLab.csprojResolveAssemblyReference.cache
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\View\Connect.g.cs
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\Messenger_KasperskyLab_MarkupCompile.lref
+C:\Documents\Visual Studio 2010\Projects\Messenger_KasperskyLab\Messenger_KasperskyLab\obj\x86\Debug\View\Connect.baml
