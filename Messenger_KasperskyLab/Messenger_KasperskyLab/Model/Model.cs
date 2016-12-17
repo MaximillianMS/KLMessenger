@@ -168,7 +168,7 @@ namespace Messenger_KasperskyLab
         }
         public void Disconnect()
         {
-            messenger.Wrap.UnregisterObserver();
+            //messenger.Wrap.UnregisterObserver();
             messenger.Wrap.Disconnect();
         }
         private void LoginCallBack(messenger.operation_result.Type result)

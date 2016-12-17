@@ -69,12 +69,6 @@ void Disconnect()
 void RegisterObserver(StatusCallback statusCallback, MessageCallback messageCallback)
 {
 	std::cout << "Registering observer...\n";
-	/*MyMessage msg;
-	std::string abc = "allax";
-	msg.content.Data = (int*)abc.c_str();
-	msg.content.length = abc.length();
-	msg.content.encrypted = false;
-	messageCallback("i@i", msg);*/
 	g_observer.messageCallback = messageCallback;
 	g_observer.statusCallback = statusCallback;
 	g_messenger->RegisterObserver(&g_observer);
@@ -135,7 +129,6 @@ void MyObserver::OnMessageReceived(const messenger::UserId & senderId, const mes
 
 void MyUsersCallback::OnOperationResult(messenger::operation_result::Type result, const messenger::UserList& users)
 {
-	std::cout << "Allax is here\n";
 	if (usersCallback != NULL)
 	{
 		std::vector<MyUser> myUsers;

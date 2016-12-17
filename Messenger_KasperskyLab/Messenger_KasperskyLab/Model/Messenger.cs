@@ -11,7 +11,7 @@ namespace Messenger_KasperskyLab.messenger
     using MessageId = String;
     class Wrap
     {
-        private const string DLL = @"Messenger_DLL.dll";
+        private const string DLL = @"..\..\..\Messenger_DLL\Release\Messenger_DLL.dll";
         [DllImport(DLL, CallingConvention = CallingConvention.Cdecl, CharSet = CharSet.Ansi)]
         public static extern void Init([MarshalAs(UnmanagedType.LPStr)] string url, ushort Port);
         [DllImport(DLL, CharSet = CharSet.Ansi, CallingConvention = CallingConvention.Cdecl)]

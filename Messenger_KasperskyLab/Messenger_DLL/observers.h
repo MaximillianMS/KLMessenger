@@ -11,8 +11,8 @@ class IMessagesObserver
 public:
     virtual ~IMessagesObserver() {}
     
-    virtual void OnMessageStatusChanged(const MessageId& msgId, message_status::Type status) { std::cout << "Allax hates you!" << std::endl; };
-	virtual void OnMessageReceived(const UserId& senderId, const Message& msg) { std::cout << "Allax loves you!" << std::endl; };
+    virtual void OnMessageStatusChanged(const MessageId& msgId, message_status::Type status) =0;
+	virtual void OnMessageReceived(const UserId& senderId, const Message& msg) =0;
 };
 
 }

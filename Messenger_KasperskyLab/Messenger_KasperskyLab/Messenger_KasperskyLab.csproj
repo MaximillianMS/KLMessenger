@@ -6,7 +6,7 @@
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{54FE1100-5A52-4895-8B7C-57E5291225C2}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Messenger_KasperskyLab</RootNamespace>
     <AssemblyName>Messenger_KasperskyLab</AssemblyName>
